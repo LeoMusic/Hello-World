@@ -1,3 +1,4 @@
 # Hello-World
 My first repository
-Dit is mijn 1e edit in deze branch. 
+Dit is mijn 1e edit in deze branch.
+Hierna idem vauit atom
